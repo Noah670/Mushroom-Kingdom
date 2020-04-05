@@ -1,4 +1,7 @@
-//An example that lets us make and use some private variables to use within the Mushroom Kingdom
+// MushroomKingdom.java
+// 4-6-2020
+// Noah Pohl
+//Class with private variables to use within the Mushroom Kingdom
 
 public class MushroomKingdom{
 
